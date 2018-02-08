@@ -1,0 +1,6 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes\\aerial"]
+	path = themes\\aerial
+	url = https://github.com/sethmacleod/aerial
