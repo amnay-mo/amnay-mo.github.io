@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Amnay MOKHTARI</title>
-    <link>http://www.amnay.fr/categories/</link>
+    <link>http://amnay-mo.github.io/categories/</link>
     <description>Recent content in Categories on Amnay MOKHTARI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>amnay.fr</copyright>
     
-	<atom:link href="http://www.amnay.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://amnay-mo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
