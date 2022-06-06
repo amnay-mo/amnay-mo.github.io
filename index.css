@@ -1,0 +1,79 @@
+@font-face {
+    font-family: social;
+    src: url('fonts/social.otf');
+}
+
+@font-face {
+    font-family: ubuntumono;
+    src: url('fonts/UbuntuMono-Regular.ttf');
+}
+
+h1 {
+    font-size: 5vw;
+    margin: 1vw;
+}
+
+
+p {
+    font-size: 2vw;
+}
+
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: "ubuntumono";
+}
+
+.centered {
+    display: flex;
+    width: auto;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.social-media-list {
+    flex-direction: row;
+    font-family: "social";
+    font-size: 7vw;
+}
+
+
+a {
+    text-decoration: inherit;
+    color: inherit;
+}
+
+
+@media screen and (max-width: 1024px) {
+    h1 {
+        font-size: 10vw;
+    }
+
+    p {
+        font-size: 3vw;
+    }
+
+    .social-media-list {
+        font-size: 12vw;
+    }
+
+}
+
+
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size: 12vw;
+    }
+
+    p {
+        font-size: 5vw;
+    }
+
+    .social-media-list {
+        font-size: 22vw;
+    }
+}
