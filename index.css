@@ -38,7 +38,7 @@ body {
 .social-media-list {
     flex-direction: row;
     font-family: "social";
-    font-size: 7vw;
+    font-size: 5vw;
 }
 
 
@@ -58,7 +58,7 @@ a {
     }
 
     .social-media-list {
-        font-size: 12vw;
+        font-size: 9vw;
     }
 
 }
