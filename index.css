@@ -36,6 +36,12 @@ body {
     flex-direction: column;
 }
 
+.links {
+    text-decoration: underline;
+    color: blueviolet;
+    font-size: 5vw;
+}
+
 .social-media-list {
     flex-direction: row;
     font-family: "social";
